@@ -1,4 +1,5 @@
-### Hi there, 👋 I'm Hannah, a maniac in analytics
+## Hi there, 👋 I'm Hannah, a maniac in analytics
+-----------------------------------------------------------------------------
 
 I am currently a master's student in Business Analytics in Aalto University and looking for an opportunity to leverage my skills to help company achieneve there goals of optimizing their business. 
 
