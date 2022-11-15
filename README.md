@@ -18,7 +18,9 @@ Though I knew I wanted to be a business analyst, I have enjoyed Deep Learning, M
 
 #### Connect with me: 
 ![Linkedin-log](/posts/path/to/Linkedin-log.png "Optional title")
-![Linkedin log.png](Linkedin log.png)
+![Linkedin log.png](Linkedin-log.png)
+https://github.com/Hannah-Abi/Hannah-Abi/blob/main/Linkedin%20log.png?raw=true![image](https://user-images.githubusercontent.com/78901478/201904507-ae2126fa-0e76-4420-994c-abc8a3bc2b8a.png)
+
 <!--
 **Hannah-Abi/Hannah-Abi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
