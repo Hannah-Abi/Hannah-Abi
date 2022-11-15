@@ -17,7 +17,7 @@ Though I knew I wanted to be a business analyst, I have enjoyed Deep Learning, M
 - Exploratory Data Analysis. 
 
 #### Connect with me: 
-https://github.com/Hannah-Abi/Hannah-Abi/blob/main/Linkedin%20log.png
+![Alt text](/posts/path/to/Linkedin%20log.png "Optional title")
 
 <!--
 **Hannah-Abi/Hannah-Abi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
