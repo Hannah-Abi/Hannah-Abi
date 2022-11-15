@@ -12,6 +12,7 @@ The BA program in the Aalto school of business has given me a precious opportuni
 
 #### Connect with me: 
 [Linkedin](https://www.linkedin.com/in/hannahabi/?originalSubdomain=fi)
+https://cdn-icons-png.flaticon.com/512/145/145807.png![image](https://user-images.githubusercontent.com/78901478/201909610-70de9a4d-3fe1-475e-adf1-3230b7f16bb8.png)
 
 
 
