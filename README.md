@@ -17,7 +17,7 @@ Though I knew I wanted to be a business analyst, I have enjoyed Deep Learning, M
 - Exploratory Data Analysis. 
 
 #### Connect with me: 
-![Linkedin_hannah]((https://cdn-icons-png.flaticon.com/512/174/174857.png))
+![Linkedin_hannah]((https://cdn-icons-png.flaticon.com/512/174/174857.png)
 
 
 
