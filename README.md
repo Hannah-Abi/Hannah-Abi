@@ -5,10 +5,10 @@ I am currently a master's student in Business Analytics in Aalto University and 
 The BA program in the Aalto school of business has given me a precious opportunity to work on many projects that are very close to the real-world project in companies from different industries. Just in my first autumn semester, with my advanced knowledge in Python, I managed to complete a Marketing Analytic project using different machine learning algorithms.  I have also learned how to apply econometric and machine learning models to solve business problems such as cost & revenue optimization with Gurobi, insurance fraud detection.
 
 ### My interests includes: 
-- Data Analytics with Python
+- Data Analytics with Python (Numpy/Pandas/Matplotlib)
 - Business Analytics with Power BI and Tableau desktop
 - Data Manipulation with SQL
-- Machine Learning and Deep Learning
+- Machine Learning and Deep Learning (ANN/CNN/Regression)
 
 ### Connect with me: 
 [Linkedin](https://www.linkedin.com/in/hannahabi/?originalSubdomain=fi)
