@@ -37,7 +37,10 @@ The BA program in the Aalto school of business has given me a precious opportuni
   </a> &nbsp; 
    <img src="https://i.imgur.com/wdVXsca.png" alt="Power BI">
   </a>
- 
+    </a>
+  </a> &nbsp; 
+   <img src="https://i.imgur.com/gwMBhaz.png" alt="Power BI">
+  </a>
 </p>
 <!--
 **Hannah-Abi/Hannah-Abi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
