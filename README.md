@@ -11,8 +11,6 @@ The BA program in the Aalto school of business has given me a precious opportuni
 - Machine Learning and Deep Learning (ANN/CNN/Regression)
 
 ### Connect with me: 
-[Linkedin](https://www.linkedin.com/in/hannahabi/?originalSubdomain=fi)
-
 <p>
   <a href="https://www.linkedin.com/in/hannahabi/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
