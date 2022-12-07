@@ -22,12 +22,11 @@ The BA program in the Aalto school of business has given me a precious opportuni
 
 ### Programming tools 
 <p>
-   <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  </a>
+  </a> &nbsp; 
    <img src="https://i.imgur.com/PyWHs71.png" alt="github"> Python
-  
-   
   </a>
 </p>
 <!--
