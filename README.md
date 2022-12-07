@@ -10,7 +10,7 @@ The BA program in the Aalto school of business has given me a precious opportuni
 - Data Manipulation with SQL
 - Machine Learning and Deep Learning (ANN/CNN/Regression)
 
-### Connect with me: 
+### Connect with me
 <p>
   <a href="https://www.linkedin.com/in/hannahabi/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
@@ -20,7 +20,13 @@ The BA program in the Aalto school of business has given me a precious opportuni
   </a>
 </p>
 
-
+### Programming tools 
+<p>
+   <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+   <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  </a>
+</p>
 <!--
 **Hannah-Abi/Hannah-Abi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
