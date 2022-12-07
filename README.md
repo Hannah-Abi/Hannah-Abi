@@ -32,6 +32,11 @@ The BA program in the Aalto school of business has given me a precious opportuni
   </a> &nbsp; 
    <img src="https://i.imgur.com/HIJK259.png" alt="tableau">
   </a>
+  </a>
+  </a> &nbsp; 
+   <img src="https://i.imgur.com/4ECc8H9.png" alt="tableau">
+  </a>
+  
 </p>
 <!--
 **Hannah-Abi/Hannah-Abi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
