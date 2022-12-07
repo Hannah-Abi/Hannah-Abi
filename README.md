@@ -26,7 +26,7 @@ The BA program in the Aalto school of business has given me a precious opportuni
    <img src="https://i.stack.imgur.com/tskMh.png" alt="github">
   </a>
   </a> &nbsp; 
-   <img src="https://i.imgur.com/PyWHs71.png" alt="github">
+   <img src="https://imgur.com/a/hKT1wxA" alt="python">
   </a>
 </p>
 <!--
