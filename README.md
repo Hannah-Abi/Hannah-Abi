@@ -23,10 +23,10 @@ The BA program in the Aalto school of business has given me a precious opportuni
 ### Programming tools 
 <p>
   </a> &nbsp; 
-   <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+   <img src="https://i.stack.imgur.com/tskMh.png" alt="github">
   </a>
   </a> &nbsp; 
-   <img src="https://i.imgur.com/PyWHs71.png" alt="github"> Python
+   <img src="https://i.imgur.com/PyWHs71.png" alt="github">
   </a>
 </p>
 <!--
