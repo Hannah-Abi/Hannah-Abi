@@ -38,7 +38,7 @@ The BA program in the Aalto school of business has given me a precious opportuni
   </a>
    </a>
   </a> &nbsp; 
-   <img src="https://i.imgur.com/mxCLxqK.png" alt="tableau">
+   <img src="https://i.imgur.com/wdVXsca.png" alt="Power BI">
   </a>
  
 </p>
