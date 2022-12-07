@@ -14,10 +14,10 @@ The BA program in the Aalto school of business has given me a precious opportuni
 [Linkedin](https://www.linkedin.com/in/hannahabi/?originalSubdomain=fi)
 
 <p>
-  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/hannahabi/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
-  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
+  <a href="https://github.com/Hannah-Abi/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
   </a>
 </p>
