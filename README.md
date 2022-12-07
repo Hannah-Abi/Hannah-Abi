@@ -9,6 +9,7 @@ The BA program in the Aalto school of business has given me a precious opportuni
 - Business Analytics with Power BI and Tableau desktop
 - Data Manipulation with SQL
 - Machine Learning and Deep Learning (ANN/CNN/Regression)
+- Statistical test: T-test, Chi-square test, ANOVA, A/B test
 
 ### Connect with me
 <p>
