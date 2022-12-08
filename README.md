@@ -24,7 +24,7 @@ The BA program in the Aalto school of business has given me a precious opportuni
 - **Marketing Analysis:** [Marketing Campaign Response](https://github.com/Hannah-Abi/Marketing-Analysis---Logistic-Regression-Decision-Tree)
 
 ## My certificate
-- **Datacamp:* [MyCerti](https://github.com/Hannah-Abi/Datacamp-Certificates)
+- **Datacamp:** [MyCerti](https://github.com/Hannah-Abi/Datacamp-Certificates)
 
 ## Connect with me
 <p>
