@@ -24,6 +24,8 @@ The BA program in the Aalto school of business has given me a precious opportuni
 ### The project/model I've worked on
 #### Data Scicenc for Business 
 **Preciptive Modeling:** [Gurobi Optimization](https://github.com/Hannah-Abi/Gurobi-optimization)
+**NLP Sentiment Analysis**: [Game-Review-Analysis](https://github.com/Hannah-Abi/Sentiment-analysis)
+**Surival Analysis**: [Survival Rate of Scooters](https://github.com/Hannah-Abi/survival-analysis-Scooter)
 ### Programming tools 
 <p>
   </a> &nbsp; 
