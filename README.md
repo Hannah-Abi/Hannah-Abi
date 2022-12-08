@@ -6,7 +6,7 @@ The BA program in the Aalto school of business has given me a precious opportuni
 
 ## My interests includes: 
 - Data Analytics with Python (Numpy/Pandas/Matplotlib)
-- Business Analytics with Tableau and Power BI
+- Data Analytics and Visualisation with Tableau and Power BI
 - Data Manipulation with MySQL
 - Machine Learning and Deep Learning (ANN/CNN/Regression)
 - Statistical test: T-test, Chi-square test, ANOVA, A/B test
@@ -22,6 +22,9 @@ The BA program in the Aalto school of business has given me a precious opportuni
 ### Machine Learning
 - **Insurance:**:[Fraudulent Claim Detection](https://github.com/Hannah-Abi/fraudulent-claim-detection-by-machine-learning)
 - **Marketing Analysis:** [Marketing Campaign Response](https://github.com/Hannah-Abi/Marketing-Analysis---Logistic-Regression-Decision-Tree)
+
+## My certificate
+- **Datacamp:* [MyCerti](https://github.com/Hannah-Abi/Datacamp-Certificates)
 
 ## Connect with me
 <p>
