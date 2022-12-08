@@ -6,8 +6,8 @@ The BA program in the Aalto school of business has given me a precious opportuni
 
 ### My interests includes: 
 - Data Analytics with Python (Numpy/Pandas/Matplotlib)
-- Business Analytics with Power BI and Tableau desktop
-- Data Manipulation with SQL
+- Business Analytics with Tableau and Power BI
+- Data Manipulation with MySQL
 - Machine Learning and Deep Learning (ANN/CNN/Regression)
 - Statistical test: T-test, Chi-square test, ANOVA, A/B test
 
@@ -21,6 +21,9 @@ The BA program in the Aalto school of business has given me a precious opportuni
   </a>
 </p>
 
+### The project/model I've worked on
+#### Data Scicenc for Business 
+**Preciptive Modeling:** [Gurobi Optimization](https://github.com/Hannah-Abi/Gurobi-optimization)
 ### Programming tools 
 <p>
   </a> &nbsp; 
