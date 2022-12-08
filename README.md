@@ -13,9 +13,15 @@ The BA program in the Aalto school of business has given me a precious opportuni
 
 ## The project/model I've worked on
 ### Data Scicenc for Business 
-**Preciptive Modeling:** [Gurobi Optimization](https://github.com/Hannah-Abi/Gurobi-optimization)
-**NLP Sentiment Analysis**: [Game-Review-Analysis](https://github.com/Hannah-Abi/Sentiment-analysis)
-**Surival Analysis**: [Survival Rate of Scooters](https://github.com/Hannah-Abi/survival-analysis-Scooter)
+- **Preciptive Modeling:** [Gurobi Optimization](https://github.com/Hannah-Abi/Gurobi-optimization)
+- **NLP Sentiment Analysis**: [Game-Review-Analysis](https://github.com/Hannah-Abi/Sentiment-analysis)
+- **Surival Analysis**: [Survival Rate of Scooters](https://github.com/Hannah-Abi/survival-analysis-Scooter)
+### SQL for Data Manipulation 
+- **Basics of SQL:** [SQL Basic]([https://github.com/Hannah-Abi?tab=repositories](https://github.com/Hannah-Abi/SQL-Data-Manipulation)
+- **Database Design:** [Music Concert](https://github.com/Hannah-Abi/PE-Case---Database-Design)
+### Machine Learning
+- **Machine Learning Project:** [Fraudulent Claim Detection](https://github.com/Hannah-Abi/fraudulent-claim-detection-by-machine-learning), [Marketing Analysis](https://github.com/Hannah-Abi/Marketing-Analysis---Logistic-Regression-Decision-Tree), 
+- 
 ## Connect with me
 <p>
   <a href="https://www.linkedin.com/in/hannahabi/" rel="nofollow noreferrer">
