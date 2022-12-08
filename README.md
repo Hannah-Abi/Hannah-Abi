@@ -1,17 +1,22 @@
-## Hi there, 👋 I'm Hannah, a maniac in analytics
+# Hi there, 👋 I'm Hannah, a maniac in analytics
 
 I am currently a master's student in Business Analytics in Aalto University and looking for an opportunity to leverage my skills to help company achieneve there goals of optimizing their business. 
 
 The BA program in the Aalto school of business has given me a precious opportunity to work on many projects that are very close to the real-world project in companies from different industries. Just in my first autumn semester, with my advanced knowledge in Python, I managed to complete a Marketing Analytic project using different machine learning algorithms.  I have also learned how to apply econometric and machine learning models to solve business problems such as cost & revenue optimization with Gurobi, insurance fraud detection.
 
-### My interests includes: 
+## My interests includes: 
 - Data Analytics with Python (Numpy/Pandas/Matplotlib)
 - Business Analytics with Tableau and Power BI
 - Data Manipulation with MySQL
 - Machine Learning and Deep Learning (ANN/CNN/Regression)
 - Statistical test: T-test, Chi-square test, ANOVA, A/B test
 
-### Connect with me
+## The project/model I've worked on
+### Data Scicenc for Business 
+**Preciptive Modeling:** [Gurobi Optimization](https://github.com/Hannah-Abi/Gurobi-optimization)
+**NLP Sentiment Analysis**: [Game-Review-Analysis](https://github.com/Hannah-Abi/Sentiment-analysis)
+**Surival Analysis**: [Survival Rate of Scooters](https://github.com/Hannah-Abi/survival-analysis-Scooter)
+## Connect with me
 <p>
   <a href="https://www.linkedin.com/in/hannahabi/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
@@ -21,12 +26,7 @@ The BA program in the Aalto school of business has given me a precious opportuni
   </a>
 </p>
 
-### The project/model I've worked on
-#### Data Scicenc for Business 
-**Preciptive Modeling:** [Gurobi Optimization](https://github.com/Hannah-Abi/Gurobi-optimization)
-**NLP Sentiment Analysis**: [Game-Review-Analysis](https://github.com/Hannah-Abi/Sentiment-analysis)
-**Surival Analysis**: [Survival Rate of Scooters](https://github.com/Hannah-Abi/survival-analysis-Scooter)
-### Programming tools 
+## Programming tools 
 <p>
   </a> &nbsp; 
    <img src="https://i.imgur.com/1JSIsx7.png" alt="python">
