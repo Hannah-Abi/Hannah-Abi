@@ -21,8 +21,8 @@ The BA program in the Aalto school of business has given me a precious opportuni
 - **Database Design:** [Music Concert](https://github.com/Hannah-Abi/PE-Case---Database-Design)
 ### Machine Learning
 - **Insurance:**:[Fraudulent Claim Detection](https://github.com/Hannah-Abi/fraudulent-claim-detection-by-machine-learning)
-- **Marketing Analysis:** [Marketing Campaign Response](https://github.com/Hannah-Abi/Marketing-Analysis---Logistic-Regression-Decision-Tree), 
-- 
+- **Marketing Analysis:** [Marketing Campaign Response](https://github.com/Hannah-Abi/Marketing-Analysis---Logistic-Regression-Decision-Tree)
+
 ## Connect with me
 <p>
   <a href="https://www.linkedin.com/in/hannahabi/" rel="nofollow noreferrer">
@@ -35,6 +35,15 @@ The BA program in the Aalto school of business has given me a precious opportuni
 
 ## Programming tools 
 <p>
+  </a> &nbsp; 
+   <img src="https://i.imgur.com/enc61qp.jpg" alt="VS Code>
+  </a> 
+  </a> &nbsp; 
+   <img src="https://i.imgur.com/BVtIv1P.png" alt="R">
+  </a> 
+   </a> &nbsp; 
+   <img src=["https://i.imgur.com/1JSIsx7.png](https://i.imgur.com/BVtIv1P.png)" alt="R">
+  </a>
   </a> &nbsp; 
    <img src="https://i.imgur.com/1JSIsx7.png" alt="python">
   </a>
