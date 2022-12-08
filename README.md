@@ -15,7 +15,7 @@ I am currently a master's student in Business Analytics in Aalto University and 
 - **NLP Sentiment Analysis**: [Game-Review-Analysis](https://github.com/Hannah-Abi/Sentiment-analysis)
 - **Surival Analysis**: [Survival Rate of Scooters](https://github.com/Hannah-Abi/survival-analysis-Scooter)
 ### SQL for Data Manipulation 
-- **Basics of SQL:** [SQL Basic](https://github.com/Hannah-Abi/SQL-Data-Manipulation)
+- **My SQL for Data Analytics:** [SQL Basic](https://github.com/Hannah-Abi/SQL-Data-Manipulation)
 - **Database Design:** [Music Concert](https://github.com/Hannah-Abi/PE-Case---Database-Design)
 ### Machine Learning
 - **Insurance:**:[Fraudulent Claim Detection](https://github.com/Hannah-Abi/fraudulent-claim-detection-by-machine-learning)
