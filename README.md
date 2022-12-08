@@ -39,11 +39,8 @@ The BA program in the Aalto school of business has given me a precious opportuni
    <img src="https://i.imgur.com/enc61qp.jpg" alt="VS Code>
   </a> 
   </a> &nbsp; 
-   <img src="https://i.imgur.com/BVtIv1P.png" alt="R">
+   <img src="https://i.imgur.com/A5LcY6X.png" alt="R">
   </a> 
-   </a> &nbsp; 
-   <img src=["https://i.imgur.com/1JSIsx7.png](https://i.imgur.com/BVtIv1P.png)" alt="R">
-  </a>
   </a> &nbsp; 
    <img src="https://i.imgur.com/1JSIsx7.png" alt="python">
   </a>
