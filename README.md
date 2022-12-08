@@ -18,7 +18,7 @@ I am currently a master's student in Business Analytics in Aalto University and 
 - **My SQL for Data Analytics:** [SQL Basic](https://github.com/Hannah-Abi/SQL-Data-Manipulation)
 - **Database Design:** [Music Concert](https://github.com/Hannah-Abi/PE-Case---Database-Design)
 ### Machine Learning
-- **Insurance:**:[Fraudulent Claim Detection](https://github.com/Hannah-Abi/fraudulent-claim-detection-by-machine-learning)
+- **Insurance:** [Fraudulent Claim Detection](https://github.com/Hannah-Abi/fraudulent-claim-detection-by-machine-learning)
 - **Marketing Analysis:** [Marketing Campaign Response](https://github.com/Hannah-Abi/Marketing-Analysis---Logistic-Regression-Decision-Tree)
 
 ## My certificate
