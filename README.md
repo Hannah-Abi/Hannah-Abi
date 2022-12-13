@@ -15,14 +15,14 @@ I am currently a master's student in Business Analytics in Aalto University and 
 - **NLP Sentiment Analysis**: [Game-Review-Analysis](https://github.com/Hannah-Abi/Sentiment-analysis)
 - **Surival Analysis**: [Survival Rate of Scooters](https://github.com/Hannah-Abi/survival-analysis-Scooter)
 ### SQL for Data Manipulation 
-- **My SQL for Data Analytics:** [SQL Basic](https://github.com/Hannah-Abi/SQL-Data-Manipulation)
+- **My SQL for Data Analytics:** [SQL Data Manipulation](https://github.com/Hannah-Abi/SQL-Data-Manipulation)
 - **Database Design:** [Music Concert](https://github.com/Hannah-Abi/PE-Case---Database-Design)
 ### Machine Learning
 - **Insurance:** [Fraudulent Claim Detection](https://github.com/Hannah-Abi/fraudulent-claim-detection-by-machine-learning)
 - **Marketing Analysis:** [Marketing Campaign Response](https://github.com/Hannah-Abi/Marketing-Analysis---Logistic-Regression-Decision-Tree)
 
 ## My certificate
-- **Datacamp:** [Self-study Certificate](https://github.com/Hannah-Abi/Self-study-Certificates), [Data Analyst with Taabeau](https://github.com/Hannah-Abi/Datacamp-Certificates/tree/main/Data%20Visualization), [Programing languages](https://github.com/Hannah-Abi/Datacamp-Certificates/tree/main/Languages), [Machine Learning](https://github.com/Hannah-Abi/Datacamp-Certificates/tree/main/Machine%20Learning)
+- **Datacamp:** [Self-study Certificate](https://github.com/Hannah-Abi/Self-study-Certificates), [Data Analyst with Tabeau](https://github.com/Hannah-Abi/Datacamp-Certificates/tree/main/Data%20Visualization), [Programing languages](https://github.com/Hannah-Abi/Datacamp-Certificates/tree/main/Languages), [Machine Learning](https://github.com/Hannah-Abi/Datacamp-Certificates/tree/main/Machine%20Learning)
 - **University of Helsinki:** [Advanced Data Analysis with Python](https://github.com/Hannah-Abi/Self-study-Certificates/blob/main/Data%20Analysis%20with%20Python/Pham%20Thi%20Thu%20Ha%2C%202022.pdf), [Advanced Python](https://github.com/Hannah-Abi/python-pro-21)
 ## Connect with me
 <p>
