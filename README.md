@@ -22,7 +22,7 @@ I am currently a master's student in Business Analytics in Aalto University and 
 - **Marketing Analysis:** [Marketing Campaign Response](https://github.com/Hannah-Abi/Marketing-Analysis---Logistic-Regression-Decision-Tree)
 
 ## My certificate
-- **Datacamp:** [MyCerti](https://github.com/Hannah-Abi/Datacamp-Certificates)
+- **Datacamp:** [MyCerti](https://github.com/Hannah-Abi/Datacamp-Certificates), [Data Analyst with Taabeau](https://github.com/Hannah-Abi/Datacamp-Certificates/tree/main/Data%20Visualization)
 
 ## Connect with me
 <p>
