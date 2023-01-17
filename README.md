@@ -49,7 +49,7 @@ I am currently a master's student in Business Analytics in Aalto University and 
    <img src="https://i.imgur.com/HIJK259.png" alt="tableau">
   </a>
   </a> &nbsp; 
-   <img src="https://i.imgur.com/4ECc8H9.png" alt="tableau">
+   <img src="https://i.imgur.com/4ECc8H9.png" alt="SQL">
    </a>
   </a> &nbsp; 
    <img src="https://i.imgur.com/wdVXsca.png" alt="Power BI">
@@ -58,8 +58,9 @@ I am currently a master's student in Business Analytics in Aalto University and 
    <img src="https://i.imgur.com/gwMBhaz.png" alt="Java">
   </a>
   </a> &nbsp; 
-   <img src="https://imgur.com/a/ryMXigL" alt="R language">
+   <img src="https://imgur.com/a/WzGTGg4" alt="R language">
   </a>
+  
 </p>
 <!--
 **Hannah-Abi/Hannah-Abi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
