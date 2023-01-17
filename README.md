@@ -3,7 +3,7 @@
 I am currently a master's student in Business Analytics in Aalto University and looking for an opportunity to leverage my skills to help company achieneve there goals of optimizing their business. The BA program in the Aalto school of business has given me a precious opportunity to work on many projects that are very close to the real-world project in companies from different industries.
 
 ## My interests includes: 
-- Data Analytics with Python (Numpy/Pandas/Matplotlib)
+- Data Analytics with several programming languages (Python, R, Excel, Java, etc..)
 - Data Analytics and Visualisation with Tableau and Power BI
 - Data Manipulation with MySQL
 - Machine Learning and Deep Learning (ANN/CNN/Regression)
