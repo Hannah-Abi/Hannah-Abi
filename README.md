@@ -58,7 +58,7 @@ I am currently a master's student in Business Analytics in Aalto University and 
    <img src="https://i.imgur.com/gwMBhaz.png" alt="Java">
   </a>
   </a> &nbsp; 
-   <img src="https://imgur.com/a/WzGTGg4.png" alt="R language">
+   <img src="https://i.imgur.com/r1MLOW3.jpg" alt="R language">
   </a>
   
 </p>
