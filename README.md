@@ -45,21 +45,20 @@ I am currently a master's student in Business Analytics in Aalto University and 
   </a> &nbsp; 
    <img src="https://i.imgur.com/1JSIsx7.png" alt="python">
   </a>
-  </a>
   </a> &nbsp; 
    <img src="https://i.imgur.com/HIJK259.png" alt="tableau">
   </a>
-  </a>
   </a> &nbsp; 
    <img src="https://i.imgur.com/4ECc8H9.png" alt="tableau">
-  </a>
    </a>
   </a> &nbsp; 
    <img src="https://i.imgur.com/wdVXsca.png" alt="Power BI">
   </a>
-    </a>
   </a> &nbsp; 
-   <img src="https://i.imgur.com/gwMBhaz.png" alt="Power BI">
+   <img src="https://i.imgur.com/gwMBhaz.png" alt="Java">
+  </a>
+  </a> &nbsp; 
+   <img src="https://imgur.com/a/ryMXigL" alt="R language">
   </a>
 </p>
 <!--
