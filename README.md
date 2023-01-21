@@ -18,8 +18,7 @@ I am currently a master's student in Business Analytics in Aalto University and 
 - **SQL server:** [SQL Data Manipulation](https://github.com/Hannah-Abi/SQL-Data-Manipulation), [Data modelling - Music Concert](https://github.com/Hannah-Abi/PE-Case---Database-Design)
 - **mySQL for Data Analytics:** [MySQL for Data Analytics](https://github.com/Hannah-Abi/MySQL-for-Data-Analytics)
 ### Machine Learning
-- **Insurance:** [Fraudulent Claim Detection](https://github.com/Hannah-Abi/fraudulent-claim-detection-by-machine-learning)
-- **Marketing Analysis:** [Marketing Campaign Response](https://github.com/Hannah-Abi/Marketing-Analysis---Logistic-Regression-Decision-Tree)
+- **Classification tasks:** [Fraudulent Claim Detection](https://github.com/Hannah-Abi/fraudulent-claim-detection-by-machine-learning) **(Insurance), [Marketing Campaign Response](https://github.com/Hannah-Abi/Marketing-Analysis---Logistic-Regression-Decision-Tree) - **(Marketing Analysis)** 
 
 ## My certificate
 - **Datacamp:** [Self-study Certificate](https://github.com/Hannah-Abi/Self-study-Certificates), [Data Analyst with Tabeau](https://github.com/Hannah-Abi/Datacamp-Certificates/tree/main/Data%20Visualization), [Programing languages](https://github.com/Hannah-Abi/Datacamp-Certificates/tree/main/Languages), [Machine Learning](https://github.com/Hannah-Abi/Datacamp-Certificates/tree/main/Machine%20Learning)
