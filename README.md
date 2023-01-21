@@ -4,8 +4,8 @@ I am currently a master's student in Business Analytics in Aalto University and 
 
 ## My interests includes: 
 - Data Analytics with several programming languages (Python, R, Excel, Java, etc..)
-- Data Analytics and Visualisation with Tableau and Power BI
-- Data Manipulation with MySQL
+- Data  Visualisation with Dash Plotly Python, Tableau, and Power BI
+- Data Manipulation with MySQL, sql Server
 - Machine Learning and Deep Learning (ANN/CNN/Regression)
 - Statistical test: T-test, Chi-square test, ANOVA, A/B test
 
