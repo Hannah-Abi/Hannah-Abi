@@ -19,7 +19,7 @@ I am currently a master's student in Business Analytics in Aalto University and 
 - **mySQL for Data Analytics:** [MySQL for Data Analytics](https://github.com/Hannah-Abi/MySQL-for-Data-Analytics)
 ### Machine Learning/ Deep Learning 
 - **Classification tasks:** [Fraudulent Claim Detection](https://github.com/Hannah-Abi/fraudulent-claim-detection-by-machine-learning) **(Insurance)**, [Marketing Campaign Response](https://github.com/Hannah-Abi/Marketing-Analysis---Logistic-Regression-Decision-Tree) - **(Marketing Analysis)** 
-- ** Natural Language Proccessing with CNN:** [Sentiment Analysis with CNN](https://github.com/Hannah-Abi/Sentiment-analysis/blob/main/NLP-with-CNN-Deep-Learning.ipynb)
+- **Natural Language Proccessing with CNN:** [Sentiment Analysis with CNN](https://github.com/Hannah-Abi/Sentiment-analysis/blob/main/NLP-with-CNN-Deep-Learning.ipynb)
 
 ## My certificate
 - **Datacamp:** [Self-study Certificate](https://github.com/Hannah-Abi/Self-study-Certificates), [Data Analyst with Tabeau](https://github.com/Hannah-Abi/Datacamp-Certificates/tree/main/Data%20Visualization), [Programing languages](https://github.com/Hannah-Abi/Datacamp-Certificates/tree/main/Languages), [Machine Learning](https://github.com/Hannah-Abi/Datacamp-Certificates/tree/main/Machine%20Learning)
