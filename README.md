@@ -4,13 +4,13 @@ I am currently a master's student in Business Analytics in Aalto University and 
 
 ## My interests includes: 
 - Data Analytics with several programming languages (Python, R, Excel, Java, etc..)
-- Data  Visualisation with Dash Plotly Python, Tableau, and Power BI
+- Data  Visualisation with Dash Python, Tableau, and Power BI
 - Data Manipulation with MySQL, sql Server
 - Machine Learning and Deep Learning (ANN/CNN/Regression)
 - Statistical test: T-test, Chi-square test, ANOVA, A/B test
 
 ## The projects I've worked on
-### Data Scicenc for Business 
+### Data Scicence for Business 
 - **Preciptive Modeling:** [Gurobi Optimization](https://github.com/Hannah-Abi/Gurobi-optimization)
 - **NLP Sentiment Analysis**: [Game-Review-Analysis](https://github.com/Hannah-Abi/Sentiment-analysis)
 - **Surival Analysis**: [Survival Rate of Scooters](https://github.com/Hannah-Abi/survival-analysis-Scooter)
@@ -20,7 +20,8 @@ I am currently a master's student in Business Analytics in Aalto University and 
 ### Machine Learning/ Deep Learning 
 - **Classification tasks:** [Fraudulent Claim Detection](https://github.com/Hannah-Abi/fraudulent-claim-detection-by-machine-learning) **(Insurance)**, [Marketing Campaign Response](https://github.com/Hannah-Abi/Marketing-Analysis---Logistic-Regression-Decision-Tree) - **(Marketing Analysis)** 
 - **Natural Language Proccessing with CNN:** [Sentiment Analysis with CNN](https://github.com/Hannah-Abi/Sentiment-analysis/blob/main/NLP-with-CNN-Deep-Learning.ipynb)
-
+### Data Visualisation
+- **Dashboard with Plotly Dash:** 
 ## My certificate
 - **Datacamp:** [Self-study Certificate](https://github.com/Hannah-Abi/Self-study-Certificates), [Data Analyst with Tabeau](https://github.com/Hannah-Abi/Datacamp-Certificates/tree/main/Data%20Visualization), [Programing languages](https://github.com/Hannah-Abi/Datacamp-Certificates/tree/main/Languages), [Machine Learning](https://github.com/Hannah-Abi/Datacamp-Certificates/tree/main/Machine%20Learning)
 - **University of Helsinki:** [Advanced Data Analysis with Python](https://github.com/Hannah-Abi/Self-study-Certificates/blob/main/Data%20Analysis%20with%20Python/Pham%20Thi%20Thu%20Ha%2C%202022.pdf), [Advanced Python](https://github.com/Hannah-Abi/python-pro-21)
