@@ -19,6 +19,7 @@ I am currently a master's student in Business Analytics in Aalto University and 
 - **mySQL for Data Analytics:** [MySQL for Data Analytics](https://github.com/Hannah-Abi/MySQL-for-Data-Analytics)
 ### Machine Learning/ Deep Learning 
 - **Classification tasks:** [Fraudulent Claim Detection](https://github.com/Hannah-Abi/fraudulent-claim-detection-by-machine-learning) **(Insurance)**, [Marketing Campaign Response](https://github.com/Hannah-Abi/Marketing-Analysis---Logistic-Regression-Decision-Tree) - **(Marketing Analysis)** 
+- **Deep Learning with Python** [DL(Basic)](https://github.com/Hannah-Abi/Deep-Learning-with-Python)
 - **Natural Language Proccessing with CNN:** [Sentiment Analysis with CNN](https://github.com/Hannah-Abi/Sentiment-analysis/blob/main/NLP-with-CNN-Deep-Learning.ipynb)
 ### Data Visualisation
 - **Dashboard with Plotly Dash** [2011 Globel E-commerce](https://github.com/Hannah-Abi/Global-E-commerce-Dashboard)
