@@ -3,8 +3,8 @@
 I am currently a master's student in Business Analytics in Aalto University and looking for an opportunity to leverage my skills to help company achieneve there goals of optimizing their business. The BA program in the Aalto school of business has given me a precious opportunity to work on many projects that are very close to the real-world project in companies from different industries.
 
 ## My interests includes: 
-- Data Analytics with several programming languages (Python, R, Excel, Java, etc..)
-- Data  Visualisation with Python, Tableau, and Power BI
+- Data Analytics with several programming languages (Excel, Python, R etc..)
+- Data  Visualisation with Python, Excel, Tableau, and Power BI
 - Data Manipulation with MySQL, sql Server
 - Machine Learning and Deep Learning (ANN/CNN/Regression)
 - Statistical test: T-test, Chi-square test, ANOVA, A/B test
@@ -21,6 +21,7 @@ I am currently a master's student in Business Analytics in Aalto University and 
 - **Classification tasks:** [Fraudulent Claim Detection](https://github.com/Hannah-Abi/fraudulent-claim-detection-by-machine-learning) **(Insurance)**, [Marketing Campaign Response](https://github.com/Hannah-Abi/Marketing-Analysis---Logistic-Regression-Decision-Tree) - **(Marketing Analysis)** 
 - **Deep Learning with Python** [DL(Basic)](https://github.com/Hannah-Abi/Deep-Learning-with-Python)
 - **Natural Language Proccessing with CNN:** [Sentiment Analysis with CNN](https://github.com/Hannah-Abi/Sentiment-analysis/blob/main/NLP-with-CNN-Deep-Learning.ipynb)
+
 ### Data Visualisation
 - **Dashboard with Plotly Dash** [2011 Globel E-commerce](https://github.com/Hannah-Abi/Global-E-commerce-Dashboard)
 - **Doasboard with Excel** [Adidas](https://github.com/Hannah-Abi/Interactive-Dashboard-with-Excel)
