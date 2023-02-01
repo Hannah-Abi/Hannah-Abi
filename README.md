@@ -24,7 +24,7 @@ I am currently a master's student in Business Analytics in Aalto University and 
 
 ### Data Visualisation
 - **Dashboard with Plotly Dash** [2011 Globel E-commerce](https://github.com/Hannah-Abi/Global-E-commerce-Dashboard)
-- **Doasboard with Excel** [Adidas](https://github.com/Hannah-Abi/Interactive-Dashboard-with-Excel)
+- **Data Analytics with Excel** [Adidas](https://github.com/Hannah-Abi/Interactive-Dashboard-with-Excel), [Plantagen Inventory Management System with VBA](https://github.com/Hannah-Abi/Interactive-Dashboard-with-Excel)
 - **HTML/CSS** [Dance Studio](https://hannah-abi.github.io/shoes-toes-studio/index.html) with [Source Code](https://github.com/Hannah-Abi/shoes-toes-studio)
 ## My certificate
 - **Datacamp:** [Self-study Certificate](https://github.com/Hannah-Abi/Self-study-Certificates), [Data Analyst with Tabeau](https://github.com/Hannah-Abi/Datacamp-Certificates/tree/main/Data%20Visualization), [Programing languages](https://github.com/Hannah-Abi/Datacamp-Certificates/tree/main/Languages), [Machine Learning](https://github.com/Hannah-Abi/Datacamp-Certificates/tree/main/Machine%20Learning)
