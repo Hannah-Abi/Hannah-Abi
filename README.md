@@ -3,9 +3,8 @@
 I am currently a master's student in Business Analytics in Aalto University and looking for an opportunity to leverage my skills to help company achieneve there goals of optimizing their business. : Though we as Business Analytics students in Aalto School do not earn the title "Data Science" students, I take pride in what I have gained from it as the curriculum includes many courses in statistics, data science, and machine learning, which not only give me a good foundation of mathematics and statistics, but also prepare us with technical skills neccessory to enter any IT field from data science/engineer, machine learning engineer to data analyst or business intelligence analyst.
 
 ## My interests includes: 
-- Data Analytics with several programming languages (Excel, Python, R etc..)
-- Data  Visualisation with Python, Excel, Tableau, and Power BI
-- Data Manipulation with MySQL, sql Server
+- Data Analytics with several programming languages especially Excel, Python, R, and Power BI/Tableau
+- Data Manipulation/Processing with MySQL, sql Server
 - Machine Learning and Deep Learning (ANN/CNN/Regression)
 - Statistical test: T-test, Chi-square test, ANOVA, A/B test
 
