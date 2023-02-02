@@ -1,6 +1,6 @@
 # Hi there, 👋 I'm Hannah, a maniac in analytics
 
-I am currently a master's student in Business Analytics in Aalto University and looking for an opportunity to leverage my skills to help company achieneve there goals of optimizing their business. The BA program in the Aalto school of business has given me a precious opportunity to work on many projects that are very close to the real-world project in companies from different industries.
+I am currently a master's student in Business Analytics in Aalto University and looking for an opportunity to leverage my skills to help company achieneve there goals of optimizing their business. : Though we as Business Analytics students in Aalto School do not earn the title, I take pride in what I have gained from it as the curriculum includes many courses in statistics, data science, and machine learning, which not only give me a good foundation of mathematics and statistics, but also prepare us with technical skills neccessory to enter any IT field from data science/engineer, machine learning engineer to data analyst or business intelligence analyst.
 
 ## My interests includes: 
 - Data Analytics with several programming languages (Excel, Python, R etc..)
