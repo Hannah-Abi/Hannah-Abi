@@ -11,7 +11,7 @@ I am currently a master's student in Business Analytics in Aalto University and 
 ## The projects I've worked on
 ### Data Scicence for Business 
 - **Preciptive Modeling:** [Gurobi Optimization](https://github.com/Hannah-Abi/Gurobi-optimization), **NLP Sentiment Analysis**: [Game-Review-Analysis](https://github.com/Hannah-Abi/Sentiment-analysis), **Surival Analysis**: [Survival Rate of Scooters](https://github.com/Hannah-Abi/survival-analysis-Scooter)
-### SQL 
+### SQL - Data Modelling and Manipulation
 - **SQL server:** [SQL Data Manipulation](https://github.com/Hannah-Abi/SQL-Data-Manipulation), [Data modelling - Music Concert](https://github.com/Hannah-Abi/PE-Case---Database-Design)
 - **mySQL for Data Analytics:** [MySQL for Data Analytics](https://github.com/Hannah-Abi/MySQL-for-Data-Analytics)
 ### Machine Learning/ Deep Learning 
@@ -20,7 +20,7 @@ I am currently a master's student in Business Analytics in Aalto University and 
 - **Natural Language Proccessing with CNN:** [Sentiment Analysis with CNN](https://github.com/Hannah-Abi/Sentiment-analysis/blob/main/NLP-with-CNN-Deep-Learning.ipynb)
 
 ### Data Visualisation
-- **Dashboard with Plotly Dash** [2011 Globel E-commerce](https://github.com/Hannah-Abi/Global-E-commerce-Dashboard)
+- **Web App with Plotly Dash** [2011 Globel E-commerce](https://github.com/Hannah-Abi/Global-E-commerce-Dashboard)
 - **Data Analytics with Excel** [Adidas](https://github.com/Hannah-Abi/Interactive-Dashboard-with-Excel), [Plantagen Inventory Management System with VBA](https://github.com/Hannah-Abi/Interactive-Dashboard-with-Excel)
 - **HTML/CSS** [Dance Studio](https://hannah-abi.github.io/shoes-toes-studio/index.html) with [Source Code](https://github.com/Hannah-Abi/shoes-toes-studio)
 ## My certificate
