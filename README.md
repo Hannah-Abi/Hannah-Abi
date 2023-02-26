@@ -27,6 +27,7 @@
 - **ANN/CNN Deep Learning** [DL(Basic)](https://github.com/Hannah-Abi/Deep-Learning-with-Python)
 - **Natural Language Proccessing with CNN:** [Sentiment Analysis with CNN](https://github.com/Hannah-Abi/Sentiment-analysis/blob/main/NLP-with-CNN-Deep-Learning.ipynb)
 ## Statistical Inference: 
+- [Statistic Inference with R](https://github.com/Hannah-Abi/Statistic-Intefernce-with-R)
 ## My certificate
 - **Datacamp:** [Self-study Certificate](https://github.com/Hannah-Abi/Self-study-Certificates), [Data Analyst with Tabeau](https://github.com/Hannah-Abi/Datacamp-Certificates/tree/main/Data%20Visualization), [Programing languages](https://github.com/Hannah-Abi/Datacamp-Certificates/tree/main/Languages), [Machine Learning](https://github.com/Hannah-Abi/Datacamp-Certificates/tree/main/Machine%20Learning)
 - **University of Helsinki:** [Advanced Data Analysis with Python](https://github.com/Hannah-Abi/Self-study-Certificates/blob/main/Data%20Analysis%20with%20Python/Pham%20Thi%20Thu%20Ha%2C%202022.pdf), [Advanced Python](https://github.com/Hannah-Abi/python-pro-21)
