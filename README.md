@@ -1,12 +1,15 @@
 # Hi there, 👋 I'm Hannah, a maniac in analytics
+## About me 
+
 ## Education 
-- Currently studying: Master of Science in Business Analytics, Accountin Bus 
+- Currently studying: Master of Science in Business Analytics, major in Accounting 
 - 2016 - 2019: Bachelor in Financial Management, Haaga-Helia UAS. 
 - 2012 - 2014: Bachelor of Economics in Corporate Finance, the National Economics University of Vietnam
 - 2009-2012: Applied Mathematics in Nguyen Trai giftted high school. 
 
 ## My technical skills: 
-- Data Analytics Tools: Python, R, Power BI, Tableau, Excel 
+- Data Analytics Tools: Python, R, Power BI, Tableau, Excel
+- Big Data Analytics in Accounting, Customer Insights. 
 - Data Modelling/ ManipulationL: mySQL, SQL server, posgreSQL
 - Machine Learning (Regression, Classification, Clustering)/ Deep Learning (ANN/CNN) 
 - Statistical test: parametrics tests (T-test, ANOVA) and non-parametric test (Sign test, Chi square test, Rank Test)
