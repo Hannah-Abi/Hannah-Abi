@@ -1,8 +1,7 @@
 # Hi there, 👋 I'm Hannah, a maniac in analytics
 ## About me 
-**If you look at a problem through different science disciplines, you’ll see things differently, including what a solution might be.”**
-I've had a long way to realize that a career as a Data Analyst is a perfect fit for me. As a pure mathematics student, I've always enjoyed a thrill of problem-solving and working with number. And after trying many studies in Accounting, Finance, Web Design, etc.., I became increasingly aware of the importance of data analytics for business growth which inspired me to strengthen my data analysis skills through training and courses. 
-if we all are able to be certain of  what we would like to do for our future at the early young age of 20, we wouldn't have had the people who are thinking outside the box and have courage to make a massive change. 
+- **If you look at a problem through different science disciplines, you’ll see things differently, including what a solution might be.”**
+- I've had a long way to realize that a career as a Data Analyst is a perfect fit for me. As a pure mathematics student, I've always enjoyed a thrill of problem-solving and working with number. And after trying many studies in Accounting, Finance, Web Design, etc.., I became increasingly aware of the importance of data analytics for business decision making which inspired me to become an data analyst. 
 
 ## Education 
 - Currently studying: Master of Science in Business Analytics, minor in Machine Learning, Deep Learning, Data Science. 
