@@ -14,22 +14,20 @@
 - Machine Learning (Regression, Classification, Clustering)/ Deep Learning (ANN/CNN). 
 - Statistical test: parametrics tests (T-test, ANOVA) and non-parametric test (Sign test, Chi square test, Rank Test).
 
-## The projects I've worked on: 
+## Some project/Tasks I've worked on: 
 ### Predictive/Prescriptive Analysis: 
-**[Preciptive Modeling-Gurobi Optimization](https://github.com/Hannah-Abi/Gurobi-optimization), **Natural Language Processing
-with CNN**: [Game-Review-Analysis](https://github.com/Hannah-Abi/Sentiment-analysis), **Quantile Regression - Surival Analysis**: [Survival Rate of Scooters](https://github.com/Hannah-Abi/survival-analysis-Scooter)
-### SQL - Data Modelling and Manipulation
+**Preciptive Modeling:** [Gurobi Optimization](https://github.com/Hannah-Abi/Gurobi-optimization)
+**Sentiment Analysis with CNN**: [Game-Review-Analysis](https://github.com/Hannah-Abi/Sentiment-analysis)
+**Quantile Regression - Surival Analysis**: [Survival Rate of Scooters](https://github.com/Hannah-Abi/survival-analysis-Scooter)
+### SQL - Database Design and Manipulation
 - **SQL server:** [SQL Data Manipulation](https://github.com/Hannah-Abi/SQL-Data-Manipulation), [Database Design - Music Concert](https://github.com/Hannah-Abi/PE-Case---Database-Design)
 - **mySQL for Data Analytics:** [MySQL for Data Analytics](https://github.com/Hannah-Abi/MySQL-for-Data-Analytics)
-### Machine Learning/ Deep Learning 
+### Machine Learning
 - **Classification tasks:** [Fraudulent Claim Detection](https://github.com/Hannah-Abi/fraudulent-claim-detection-by-machine-learning) **(Insurance)**, [Marketing Campaign Response](https://github.com/Hannah-Abi/Marketing-Analysis---Logistic-Regression-Decision-Tree) - **(Marketing Analysis)** 
+## Deep Learning: 
 - **Deep Learning with Python** [DL(Basic)](https://github.com/Hannah-Abi/Deep-Learning-with-Python)
 - **Natural Language Proccessing with CNN:** [Sentiment Analysis with CNN](https://github.com/Hannah-Abi/Sentiment-analysis/blob/main/NLP-with-CNN-Deep-Learning.ipynb)
-
-### Data Visualisation
-- **Web App with Plotly Dash** [2011 Globel E-commerce](https://github.com/Hannah-Abi/Global-E-commerce-Dashboard)
-- **Data Analytics with Excel** [Adidas](https://github.com/Hannah-Abi/Interactive-Dashboard-with-Excel), [Plantagen Inventory Management System with VBA](https://github.com/Hannah-Abi/Interactive-Dashboard-with-Excel)
-- **HTML/CSS** [Dance Studio](https://hannah-abi.github.io/shoes-toes-studio/index.html) with [Source Code](https://github.com/Hannah-Abi/shoes-toes-studio)
+## Statistical Inference: 
 ## My certificate
 - **Datacamp:** [Self-study Certificate](https://github.com/Hannah-Abi/Self-study-Certificates), [Data Analyst with Tabeau](https://github.com/Hannah-Abi/Datacamp-Certificates/tree/main/Data%20Visualization), [Programing languages](https://github.com/Hannah-Abi/Datacamp-Certificates/tree/main/Languages), [Machine Learning](https://github.com/Hannah-Abi/Datacamp-Certificates/tree/main/Machine%20Learning)
 - **University of Helsinki:** [Advanced Data Analysis with Python](https://github.com/Hannah-Abi/Self-study-Certificates/blob/main/Data%20Analysis%20with%20Python/Pham%20Thi%20Thu%20Ha%2C%202022.pdf), [Advanced Python](https://github.com/Hannah-Abi/python-pro-21)
