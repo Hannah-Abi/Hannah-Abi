@@ -2,23 +2,23 @@
 ## About me 
 
 ## Education 
-- Currently studying: Master of Science in Business Analytics, major in Accounting 
+- Currently studying: Master of Science in Business Analytics, minor in Machine Learning, Deep Learning, Data Science. 
 - 2016 - 2019: Bachelor in Financial Management, Haaga-Helia UAS. 
 - 2012 - 2014: Bachelor of Economics in Corporate Finance, the National Economics University of Vietnam
-- 2009-2012: Applied Mathematics in Nguyen Trai giftted high school. 
+- 2009-2012: Applied Mathematics in Nguyen Trai giftted High School. 
 
 ## My technical skills: 
-- Data Analytics Tools: Python, R, Power BI, Tableau, Excel
-- Big Data Analytics in Accounting, Customer Insights. 
-- Data Modelling/ ManipulationL: mySQL, SQL server, posgreSQL
-- Machine Learning (Regression, Classification, Clustering)/ Deep Learning (ANN/CNN) 
-- Statistical test: parametrics tests (T-test, ANOVA) and non-parametric test (Sign test, Chi square test, Rank Test)
+- Data Analytics Tools: Python, R, Power BI, Tableau, Excel.
+- Big Data Analytics in Accounting, Marketing, and Customer Insights. 
+- Data Modelling/ ManipulationL: mySQL, SQL server, posgreSQL. 
+- Machine Learning (Regression, Classification, Clustering)/ Deep Learning (ANN/CNN). 
+- Statistical test: parametrics tests (T-test, ANOVA) and non-parametric test (Sign test, Chi square test, Rank Test).
 
-## The projects I've worked on
-### Data Scicence for Business 
-- **Preciptive Modeling:** [Gurobi Optimization](https://github.com/Hannah-Abi/Gurobi-optimization), **NLP Sentiment Analysis**: [Game-Review-Analysis](https://github.com/Hannah-Abi/Sentiment-analysis), **Surival Analysis**: [Survival Rate of Scooters](https://github.com/Hannah-Abi/survival-analysis-Scooter)
+## The projects I've worked on: 
+### Predictive/Prescriptive Analysis: **Preciptive Modeling [Gurobi Optimization](https://github.com/Hannah-Abi/Gurobi-optimization), **Natural Language Processing
+with CNN**: [Game-Review-Analysis](https://github.com/Hannah-Abi/Sentiment-analysis), **Quantile Regression - Surival Analysis**: [Survival Rate of Scooters](https://github.com/Hannah-Abi/survival-analysis-Scooter)
 ### SQL - Data Modelling and Manipulation
-- **SQL server:** [SQL Data Manipulation](https://github.com/Hannah-Abi/SQL-Data-Manipulation), [Data modelling - Music Concert](https://github.com/Hannah-Abi/PE-Case---Database-Design)
+- **SQL server:** [SQL Data Manipulation](https://github.com/Hannah-Abi/SQL-Data-Manipulation), [Database Design - Music Concert](https://github.com/Hannah-Abi/PE-Case---Database-Design)
 - **mySQL for Data Analytics:** [MySQL for Data Analytics](https://github.com/Hannah-Abi/MySQL-for-Data-Analytics)
 ### Machine Learning/ Deep Learning 
 - **Classification tasks:** [Fraudulent Claim Detection](https://github.com/Hannah-Abi/fraudulent-claim-detection-by-machine-learning) **(Insurance)**, [Marketing Campaign Response](https://github.com/Hannah-Abi/Marketing-Analysis---Logistic-Regression-Decision-Tree) - **(Marketing Analysis)** 
