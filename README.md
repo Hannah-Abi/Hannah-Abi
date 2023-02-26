@@ -1,17 +1,15 @@
 # Hi there, 👋 I'm Hannah, a maniac in analytics
 ## Education 
-Currently studying: Master of Science in Business Analytics, Accountin Bus 
-2016 - 2019: Bachelor in Financial Management, Haaga-Helia UAS. 
-2012 - 2014: National Economics University of Vietnam 
-2009-2012: Applied Mathematics in Nguyen Trai giftted high school. 
+- Currently studying: Master of Science in Business Analytics, Accountin Bus 
+- 2016 - 2019: Bachelor in Financial Management, Haaga-Helia UAS. 
+- 2012 - 2014: Bachelor of Economics in Corporate Finance, the National Economics University of Vietnam
+- 2009-2012: Applied Mathematics in Nguyen Trai giftted high school. 
 
 ## My technical skills: 
-- Programming LanguagesL Python, R, Java, Github. 
 - Data Analytics Tools: Python, R, Power BI, Tableau, Excel 
-- Data Modelling/ ManipulationL mySQL, SQL server, posgreSQL
-- Machine Learning, Deel 
-- Machine Learning and Deep Learning (ANN/CNN/Regression)
-- Statistical test: T-test, Chi-square test, ANOVA, A/B test
+- Data Modelling/ ManipulationL: mySQL, SQL server, posgreSQL
+- Machine Learning (Regression, Classification, Clustering)/ Deep Learning (ANN/CNN) 
+- Statistical test: parametrics tests (T-test, ANOVA) and non-parametric test (Sign test, Chi square test, Rank Test)
 
 ## The projects I've worked on
 ### Data Scicence for Business 
