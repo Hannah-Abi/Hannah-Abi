@@ -1,10 +1,15 @@
 # Hi there, 👋 I'm Hannah, a maniac in analytics
+## Education 
+Currently studying: Master of Science in Business Analytics, Accountin Bus 
+2016 - 2019: Bachelor in Financial Management, Haaga-Helia UAS. 
+2012 - 2014: National Economics University of Vietnam 
+2009-2012: Applied Mathematics in Nguyen Trai giftted high school. 
 
-I am currently a master's student in Business Analytics in Aalto University and looking for an opportunity to leverage my skills to help company achieve there goals of optimizing the business. Though we as Business Analytics students in Aalto School do not earn the title "Data Science" students, I take pride in what I have gained from it as the curriculum includes many courses in statistics, data science, and machine learning, which not only give me a good foundation of mathematics and statistics, but also prepares us with technical skills neccessory to enter any IT field from data science/engineer, machine learning engineer to data analyst or business intelligence analyst.
-
-## My interests includes: 
-- Data Analytics with several programming languages especially Excel, Python, R, and Power BI/Tableau
-- Data Manipulation/Processing with MySQL, sql Server
+## My technical skills: 
+- Programming LanguagesL Python, R, Java, Github. 
+- Data Analytics Tools: Python, R, Power BI, Tableau, Excel 
+- Data Modelling/ ManipulationL mySQL, SQL server, posgreSQL
+- Machine Learning, Deel 
 - Machine Learning and Deep Learning (ANN/CNN/Regression)
 - Statistical test: T-test, Chi-square test, ANOVA, A/B test
 
