@@ -16,10 +16,12 @@
 - Machine Learning (Regression, Classification, Clustering)/ Deep Learning (ANN/CNN). 
 - Statistical test: parametrics tests (T-test, ANOVA) and non-parametric test (Sign test, Chi square test, Rank Test).
 
-## Some project/Tasks I've worked on: 
-### Predictive/Prescriptive Analysis: 
+## Some projects I've done: 
+### Probability & Statistics Projects
+- Real-time Insights from Twitter data
+- **Sentiment Analysis with Naive-Bayes-Classififer**: [Game-Review-Analysis](https://github.com/Hannah-Abi/Sentiment-analysis)
+### Predictive/Prescriptive Analysis:
 - **Preciptive Modeling:** [Gurobi Optimization](https://github.com/Hannah-Abi/Gurobi-optimization)
-- **Sentiment Analysis with CNN**: [Game-Review-Analysis](https://github.com/Hannah-Abi/Sentiment-analysis)
 - **Quantile Regression - Surival Analysis**: [Survival Rate of Scooters](https://github.com/Hannah-Abi/survival-analysis-Scooter)
 ### SQL - Database Design and Manipulation
 - **SQL server:** [SQL Data Manipulation](https://github.com/Hannah-Abi/SQL-Data-Manipulation), [Database Design - Music Concert](https://github.com/Hannah-Abi/PE-Case---Database-Design)
