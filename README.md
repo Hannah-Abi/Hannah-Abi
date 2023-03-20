@@ -18,7 +18,9 @@
 
 ## Some project/Tasks I've worked on: 
 ### Predictive/Prescriptive Analysis: 
-- **Preciptive Modeling:** [Gurobi Optimization](https://github.com/Hannah-Abi/Gurobi-optimization), **Sentiment Analysis with CNN**: [Game-Review-Analysis](https://github.com/Hannah-Abi/Sentiment-analysis), **Quantile Regression - Surival Analysis**: [Survival Rate of Scooters](https://github.com/Hannah-Abi/survival-analysis-Scooter)
+- **Preciptive Modeling:** [Gurobi Optimization](https://github.com/Hannah-Abi/Gurobi-optimization)
+- **Sentiment Analysis with CNN**: [Game-Review-Analysis](https://github.com/Hannah-Abi/Sentiment-analysis)
+- **Quantile Regression - Surival Analysis**: [Survival Rate of Scooters](https://github.com/Hannah-Abi/survival-analysis-Scooter)
 ### SQL - Database Design and Manipulation
 - **SQL server:** [SQL Data Manipulation](https://github.com/Hannah-Abi/SQL-Data-Manipulation), [Database Design - Music Concert](https://github.com/Hannah-Abi/PE-Case---Database-Design)
 - **mySQL for Data Analytics:** [MySQL for Data Analytics](https://github.com/Hannah-Abi/MySQL-for-Data-Analytics)
