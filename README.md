@@ -18,7 +18,7 @@
 
 ## Some advanced projects I've done: 
 ### Probability & Statistics Projects
-- Real-time Insights from Twitter data
+- [Real-time Insights from Twitter data](https://github.com/Hannah-Abi/Twitter-a-hot-trend)
 - **Sentiment Analysis with Naive-Bayes-Classififer**: [Game-Review-Analysis](https://github.com/Hannah-Abi/Sentiment-analysis)
 ### EDA Projects 
 - **EDA with SQL**: [International Debt Statistics Analysis](https://app.datacamp.com/learn/projects/754), [Sales KPI metrics for Wolt]
