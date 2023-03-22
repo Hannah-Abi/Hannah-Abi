@@ -22,7 +22,7 @@
 - **Sentiment Analysis with Naive-Bayes-Classififer**: [Game-Review-Analysis](https://github.com/Hannah-Abi/Sentiment-analysis)
 ### EDA Projects 
 - **EDA with SQL**: [International Debt Statistics Analysis](https://app.datacamp.com/learn/projects/754), [Sales KPI metrics for Wolt]
-- **EDA with Python**: [Investigating Netflix Movies and Guest Stars in The Office](https://app.datacamp.com/learn/projects/1237), [User Segmentation with RFM score]
+- **EDA with Python**: [Investigating Netflix Movies and Guest Stars in The Office](https://app.datacamp.com/learn/projects/1237), [User Segmentation with RFM score](https://github.com/Hannah-Abi/user-segmentation-analysis-Wolt)
 ### Predictive/Prescriptive Analysis:
 - **Preciptive Modeling:** [Gurobi Optimization](https://github.com/Hannah-Abi/Gurobi-optimization)
 - **Quantile Regression - Surival Analysis**: [Survival Rate of Scooters](https://github.com/Hannah-Abi/survival-analysis-Scooter)
