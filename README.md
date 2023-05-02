@@ -18,7 +18,7 @@
 - **Sentiment Analysis with Naive-Bayes-Classififer**: [Game-Review-Analysis](https://github.com/Hannah-Abi/Sentiment-analysis)
 - [Statistic Inference with R](https://github.com/Hannah-Abi/Statistic-Intefernce-with-R)
 ### Advanced Projects with SQL and Python
-- **Big Data Analysis with SQL**: [International Debt Statistics Analysis](https://app.datacamp.com/learn/projects/754), [Sales KPI metrics for Wolt](https://github.com/Hannah-Abi/Sales-KPIs---delivery-service)
+- **Big Data Analysis with SQL**: [Sales KPI metrics for Wolt](https://github.com/Hannah-Abi/Sales-KPIs---delivery-service), [International Debt Statistics Analysis](https://app.datacamp.com/learn/projects/754)
 - **Big Data Analysis with Python**: [Investigating Netflix Movies and Guest Stars in The Office](https://app.datacamp.com/learn/projects/1237), [User Segmentation with RFM score](https://github.com/Hannah-Abi/user-segmentation-analysis-Wolt)
 ### Predictive/Prescriptive Analysis:
 - **Preciptive Modeling:** [Gurobi Optimization](https://github.com/Hannah-Abi/Gurobi-optimization)
