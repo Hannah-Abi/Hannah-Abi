@@ -12,13 +12,14 @@
 - Machine Learning (Regression, Classification, Clustering)/ Deep Learning (ANN/CNN). 
 - Statistical test: parametrics tests (T-test, ANOVA) and non-parametric test (Sign test, Chi square test, Rank Test).
 
-## Some advanced projects I've done: 
-### Probability & Statistics Projects
+## Data Analytics Projects  
+### Probability & Statistics Projects with Python and R
 - [Real-time Insights from Twitter data](https://github.com/Hannah-Abi/Twitter-a-hot-trend)
 - **Sentiment Analysis with Naive-Bayes-Classififer**: [Game-Review-Analysis](https://github.com/Hannah-Abi/Sentiment-analysis)
-### EDA Projects 
-- **EDA with SQL**: [International Debt Statistics Analysis](https://app.datacamp.com/learn/projects/754), [Sales KPI metrics for Wolt](https://github.com/Hannah-Abi/Sales-KPIs---delivery-service)
-- **EDA with Python**: [Investigating Netflix Movies and Guest Stars in The Office](https://app.datacamp.com/learn/projects/1237), [User Segmentation with RFM score](https://github.com/Hannah-Abi/user-segmentation-analysis-Wolt)
+- - [Statistic Inference with R](https://github.com/Hannah-Abi/Statistic-Intefernce-with-R)
+### Advanced Projects with SQL and Python
+- **Big Data Analysis with SQL**: [International Debt Statistics Analysis](https://app.datacamp.com/learn/projects/754), [Sales KPI metrics for Wolt](https://github.com/Hannah-Abi/Sales-KPIs---delivery-service)
+- **Big Data Analysis with Python**: [Investigating Netflix Movies and Guest Stars in The Office](https://app.datacamp.com/learn/projects/1237), [User Segmentation with RFM score](https://github.com/Hannah-Abi/user-segmentation-analysis-Wolt)
 ### Predictive/Prescriptive Analysis:
 - **Preciptive Modeling:** [Gurobi Optimization](https://github.com/Hannah-Abi/Gurobi-optimization)
 - **Quantile Regression - Surival Analysis**: [Survival Rate of Scooters](https://github.com/Hannah-Abi/survival-analysis-Scooter)
@@ -30,7 +31,7 @@
 - **ANN/CNN Deep Learning** [DL(Basic)](https://github.com/Hannah-Abi/Deep-Learning-with-Python)
 - **Natural Language Proccessing with CNN:** [Sentiment Analysis with CNN](https://github.com/Hannah-Abi/Sentiment-analysis/blob/main/NLP-with-CNN-Deep-Learning.ipynb)
 ## Statistical Inference: 
-- [Statistic Inference with R](https://github.com/Hannah-Abi/Statistic-Intefernce-with-R)
+
 ## My certificate
 - **Datacamp:** [Self-study Certificate](https://github.com/Hannah-Abi/Self-study-Certificates), [Data Analyst with Tabeau](https://github.com/Hannah-Abi/Datacamp-Certificates/tree/main/Data%20Visualization), [Programing languages](https://github.com/Hannah-Abi/Datacamp-Certificates/tree/main/Languages), [Machine Learning](https://github.com/Hannah-Abi/Datacamp-Certificates/tree/main/Machine%20Learning)
 - **University of Helsinki:** [Advanced Data Analysis with Python](https://github.com/Hannah-Abi/Self-study-Certificates/blob/main/Data%20Analysis%20with%20Python/Pham%20Thi%20Thu%20Ha%2C%202022.pdf), [Advanced Python](https://github.com/Hannah-Abi/python-pro-21)
