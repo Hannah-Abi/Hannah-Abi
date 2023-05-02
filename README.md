@@ -17,7 +17,7 @@
 - [Real-time Insights from Twitter data](https://github.com/Hannah-Abi/Twitter-a-hot-trend)
 - **Sentiment Analysis with Naive-Bayes-Classififer**: [Game-Review-Analysis](https://github.com/Hannah-Abi/Sentiment-analysis)
 ### EDA Projects 
-- **EDA with SQL**: [International Debt Statistics Analysis](https://app.datacamp.com/learn/projects/754), [Sales KPI metrics for Wolt]
+- **EDA with SQL**: [International Debt Statistics Analysis](https://app.datacamp.com/learn/projects/754), [Sales KPI metrics for Wolt](https://github.com/Hannah-Abi/Sales-KPIs---delivery-service)
 - **EDA with Python**: [Investigating Netflix Movies and Guest Stars in The Office](https://app.datacamp.com/learn/projects/1237), [User Segmentation with RFM score](https://github.com/Hannah-Abi/user-segmentation-analysis-Wolt)
 ### Predictive/Prescriptive Analysis:
 - **Preciptive Modeling:** [Gurobi Optimization](https://github.com/Hannah-Abi/Gurobi-optimization)
