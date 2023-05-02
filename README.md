@@ -31,7 +31,7 @@
 - **ANN/CNN Deep Learning** [DL(Basic)](https://github.com/Hannah-Abi/Deep-Learning-with-Python)
 - **Natural Language Proccessing with CNN:** [Sentiment Analysis with CNN](https://github.com/Hannah-Abi/Sentiment-analysis/blob/main/NLP-with-CNN-Deep-Learning.ipynb)
 ## Datacamp Certificates and Advance object-oriented programming courses
-- **Datacamp:** [Data Analyst with Tabeau](https://github.com/Hannah-Abi/Datacamp-courses/tree/main/Data%20Analyst%20with%20Tableau), [Data Scientist with Python](https://github.com/Hannah-Abi/Datacamp-courses/tree/main/Data%20Scientist%20with%20Python)
+- **Datacamp:** [Data Analyst with Tabeau](https://github.com/Hannah-Abi/Datacamp-courses/tree/main/Data%20Analyst%20with%20Tableau), [Data Scientist with Python](https://github.com/Hannah-Abi/Datacamp-courses/tree/main/Data%20Scientist%20with%20Python), [Data Analsy with SQL](https://github.com/Hannah-Abi/Datacamp-courses/tree/main/Data%20Analyst%20with%20SQL)
 - **Intensice courses**: [Programming with Python - Uni of Helsinki](https://github.com/Hannah-Abi/python-pro-21)
 ## Connect with me
 <p>
