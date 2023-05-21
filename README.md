@@ -8,7 +8,7 @@
 ## My technical skills: 
 - Data Analytics Tools: Python, R, Power BI, Tableau, Excel.
 - Big Data Analytics in Accounting, Marketing, and Customer Insights. 
-- Data Modelling/ ManipulationL: mySQL, SQL server, posgreSQL. 
+- Data Modelling/ ManipulationL: mySQL, SQL server, posgreSQL, Google Big Query
 - Machine Learning (Regression, Classification, Clustering)/ Deep Learning (ANN/CNN). 
 - Statistical test: parametrics tests (T-test, ANOVA) and non-parametric test (Sign test, Chi square test, Rank Test).
 
