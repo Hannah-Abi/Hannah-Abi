@@ -13,7 +13,7 @@
 - Statistical test: parametrics tests (T-test, ANOVA) and non-parametric test (Sign test, Chi square test, Rank Test).
 
 ## Data Analytic Projects
-### Advanced Projects with SQL and Python
+### Advanced Data Analytics with SQL and Python
 - **Data Analysis with SQL**: [Sales KPI metrics for Wolt](https://github.com/Hannah-Abi/Sales-KPIs---delivery-service), [International Debt Statistics Analysis](https://app.datacamp.com/learn/projects/754)
 - **Data Analysis with Python**: [Investigating Netflix Movies and Guest Stars in The Office](https://app.datacamp.com/learn/projects/1237), [User Segmentation with RFM score](https://github.com/Hannah-Abi/user-segmentation-analysis-Wolt)
 
@@ -21,7 +21,7 @@
 - [E-commerce Dashboard with Dash Plotly - Data App](https://github.com/Hannah-Abi/Global-E-commerce-Dashboard)
 - ** User Experiences UX/UI design**: [Havinlan web design Brizy](https://havinlan.brizy.site/), [Dance Studio with HTML/CSS/JavaScript](https://github.com/Hannah-Abi/shoes-toes-studio)
 - [Adidas E-commerce Dashboard](https://github.com/Hannah-Abi/Interactive-Dashboard-with-Excel)
-### Database Projects with SQL 
+### Database Design with SQL 
 - **Database design & Validation**: [Database Design - Music Concert](https://github.com/Hannah-Abi/PE-Case---Database-Design) 
 - **Data Manipulation**: [MySQL for Data Analytics](https://github.com/Hannah-Abi/MySQL-for-Data-Analytics), 
 ### Probability & Statistics Projects with Python and R
