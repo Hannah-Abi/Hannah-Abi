@@ -27,10 +27,6 @@
 - [Real-time Insights from Twitter data](https://github.com/Hannah-Abi/Twitter-a-hot-trend)
 - **Sentiment Analysis with Naive-Bayes-Classififer**: [Game-Review-Analysis](https://github.com/Hannah-Abi/Sentiment-analysis)
 - [Statistic Inference with R](https://github.com/Hannah-Abi/Statistic-Intefernce-with-R)
-
-### Predictive/Prescriptive Analysis:
-- **Preciptive Modeling:** [Gurobi Optimization](https://github.com/Hannah-Abi/Gurobi-optimization)
-- **Quantile Regression - Surival Analysis**: [Survival Rate of Scooters](https://github.com/Hannah-Abi/survival-analysis-Scooter)
 ### Machine Learning/Deep Learning:
 - **Classification tasks:** [Fraudulent Claim Detection](https://github.com/Hannah-Abi/fraudulent-claim-detection-by-machine-learning) **(Insurance)**, [Marketing Campaign Response](https://github.com/Hannah-Abi/Marketing-Analysis---Logistic-Regression-Decision-Tree) - **(Marketing Analysis)** 
 - **ANN/CNN Deep Learning** [DL(Basic)](https://github.com/Hannah-Abi/Deep-Learning-with-Python)
