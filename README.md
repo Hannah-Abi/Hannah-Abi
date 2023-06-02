@@ -10,6 +10,10 @@
 - Machine Learning (Regression, Classification, Clustering)/ Deep Learning (ANN/CNN). 
 - Statistical test: parametrics tests (T-test, ANOVA, A/B Testing) and non-parametric test (Sign test, Chi square test, Rank Test).
 
+## Certificates and Advance object-oriented programming courses
+- **Datacamp:** [Data Analyst with Tableau](https://github.com/Hannah-Abi/Datacamp-courses/tree/main/Data%20Analyst%20with%20Tableau), [Data Scientist with Python](https://github.com/Hannah-Abi/Datacamp-courses/tree/main/Data%20Scientist%20with%20Python), [Data Analsy with SQL](https://github.com/Hannah-Abi/Datacamp-courses/tree/main/Data%20Analyst%20with%20SQL)
+- **Advanced Python Programming courses**: [Programming with Python - Uni of Helsinki](https://github.com/Hannah-Abi/python-pro-21)
+
 ## Data Analytic Projects
 ### Advanced Data Analytics with SQL and Python
 - **Data Analysis with SQL**: [Sales KPI metrics for Wolt](https://github.com/Hannah-Abi/Sales-KPIs---delivery-service), [International Debt Statistics Analysis](https://app.datacamp.com/learn/projects/754)
@@ -31,9 +35,6 @@
 - **Classification tasks:** [Fraudulent Claim Detection](https://github.com/Hannah-Abi/fraudulent-claim-detection-by-machine-learning) **(Insurance)**, [Marketing Campaign Response](https://github.com/Hannah-Abi/Marketing-Analysis---Logistic-Regression-Decision-Tree) - **(Marketing Analysis)** 
 - **ANN/CNN Deep Learning** [DL(Basic)](https://github.com/Hannah-Abi/Deep-Learning-with-Python)
 - **Natural Language Proccessing with CNN:** [Sentiment Analysis with CNN](https://github.com/Hannah-Abi/Sentiment-analysis/blob/main/NLP-with-CNN-Deep-Learning.ipynb)
-## Datacamp Certificates and Advance object-oriented programming courses
-- **Datacamp:** [Data Analyst with Tableau](https://github.com/Hannah-Abi/Datacamp-courses/tree/main/Data%20Analyst%20with%20Tableau), [Data Scientist with Python](https://github.com/Hannah-Abi/Datacamp-courses/tree/main/Data%20Scientist%20with%20Python), [Data Analsy with SQL](https://github.com/Hannah-Abi/Datacamp-courses/tree/main/Data%20Analyst%20with%20SQL)
-- **Intensice courses**: [Programming with Python - Uni of Helsinki](https://github.com/Hannah-Abi/python-pro-21)
 ## Connect with me
 <p>
   <a href="https://www.linkedin.com/in/hannahabi/" rel="nofollow noreferrer">
