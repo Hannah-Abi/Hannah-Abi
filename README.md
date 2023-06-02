@@ -1,9 +1,9 @@
 # Hi there, 👋 I'm Hannah, a maniac in analytics
 ## Education 
-- Currently studying: Master of Science in Business Analytics, minor in Machine Learning, Deep Learning, Data Science. 
+- Currently studying: Master of Science in **Business Analytics**. 
 - 2016 - 2019: Bachelor in Financial Management, Haaga-Helia UAS.  
 ## My technical skills: 
-- Data Analytics Tools: Python, R, Power BI, Tableau, Excel.
+- Data Analytics Tools: Python, BI tools (Tableau, Power BI), SQL, R, etc...
 - Data Visualization: Tableau, Python (Matplotlib, Seaborn, GGplot), and R. 
 - Big Data Analytics in Sale & Marketing, and Customer Insights. 
 - Data Modelling/ ManipulationL: mySQL, SQL server, posgreSQL, Google Big Query, Azure.
