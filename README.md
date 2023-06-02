@@ -1,16 +1,14 @@
 # Hi there, 👋 I'm Hannah, a maniac in analytics
 ## Education 
 - Currently studying: Master of Science in Business Analytics, minor in Machine Learning, Deep Learning, Data Science. 
-- 2016 - 2019: Bachelor in Financial Management, Haaga-Helia UAS. 
-- 2012 - 2014: Bachelor of Economics in Corporate Finance, the National Economics University of Vietnam
-- 2009-2012: Applied Mathematics in Nguyen Trai giftted High School. 
-
+- 2016 - 2019: Bachelor in Financial Management, Haaga-Helia UAS.  
 ## My technical skills: 
 - Data Analytics Tools: Python, R, Power BI, Tableau, Excel.
-- Big Data Analytics in Accounting, Marketing, and Customer Insights. 
-- Data Modelling/ ManipulationL: mySQL, SQL server, posgreSQL, Google Big Query
+- Data Visualization: Tableau, Python (Matplotlib, Seaborn, GGplot), and R. 
+- Big Data Analytics in Sale & Marketing, and Customer Insights. 
+- Data Modelling/ ManipulationL: mySQL, SQL server, posgreSQL, Google Big Query, Azure.
 - Machine Learning (Regression, Classification, Clustering)/ Deep Learning (ANN/CNN). 
-- Statistical test: parametrics tests (T-test, ANOVA) and non-parametric test (Sign test, Chi square test, Rank Test).
+- Statistical test: parametrics tests (T-test, ANOVA, A/B Testing) and non-parametric test (Sign test, Chi square test, Rank Test).
 
 ## Data Analytic Projects
 ### Advanced Data Analytics with SQL and Python
@@ -18,9 +16,10 @@
 - **Data Analysis with Python**: [Investigating Netflix Movies and Guest Stars in The Office](https://app.datacamp.com/learn/projects/1237), [User Segmentation with RFM score](https://github.com/Hannah-Abi/user-segmentation-analysis-Wolt)
 
 ### Dashboard - Data Visualization 
+- [Traffic Accident 2018-2021 - BI Tableau Analytics Challenge]
+- **User Experiences UX/UI design**: [Havinlan web design Brizy](https://havinlan.brizy.site/), [Dance Studio (HTML/CSS/JavaScript)](https://github.com/Hannah-Abi/shoes-toes-studio) 
+- [Adidas E-commerce Dashboard with Excel](https://github.com/Hannah-Abi/Interactive-Dashboard-with-Excel)
 - [E-commerce Dashboard with Dash Plotly - Data App](https://github.com/Hannah-Abi/Global-E-commerce-Dashboard)
-- ** User Experiences UX/UI design**: [Havinlan web design Brizy](https://havinlan.brizy.site/), [Dance Studio with HTML/CSS/JavaScript](https://github.com/Hannah-Abi/shoes-toes-studio)
-- [Adidas E-commerce Dashboard](https://github.com/Hannah-Abi/Interactive-Dashboard-with-Excel)
 ### Database Design with SQL 
 - **Database design & Validation**: [Database Design - Music Concert](https://github.com/Hannah-Abi/PE-Case---Database-Design) 
 - **Data Manipulation**: [MySQL for Data Analytics](https://github.com/Hannah-Abi/MySQL-for-Data-Analytics), 
@@ -32,13 +31,12 @@
 ### Predictive/Prescriptive Analysis:
 - **Preciptive Modeling:** [Gurobi Optimization](https://github.com/Hannah-Abi/Gurobi-optimization)
 - **Quantile Regression - Surival Analysis**: [Survival Rate of Scooters](https://github.com/Hannah-Abi/survival-analysis-Scooter)
-
 ### Machine Learning/Deep Learning:
 - **Classification tasks:** [Fraudulent Claim Detection](https://github.com/Hannah-Abi/fraudulent-claim-detection-by-machine-learning) **(Insurance)**, [Marketing Campaign Response](https://github.com/Hannah-Abi/Marketing-Analysis---Logistic-Regression-Decision-Tree) - **(Marketing Analysis)** 
 - **ANN/CNN Deep Learning** [DL(Basic)](https://github.com/Hannah-Abi/Deep-Learning-with-Python)
 - **Natural Language Proccessing with CNN:** [Sentiment Analysis with CNN](https://github.com/Hannah-Abi/Sentiment-analysis/blob/main/NLP-with-CNN-Deep-Learning.ipynb)
 ## Datacamp Certificates and Advance object-oriented programming courses
-- **Datacamp:** [Data Analyst with Tabeau](https://github.com/Hannah-Abi/Datacamp-courses/tree/main/Data%20Analyst%20with%20Tableau), [Data Scientist with Python](https://github.com/Hannah-Abi/Datacamp-courses/tree/main/Data%20Scientist%20with%20Python), [Data Analsy with SQL](https://github.com/Hannah-Abi/Datacamp-courses/tree/main/Data%20Analyst%20with%20SQL)
+- **Datacamp:** [Data Analyst with Tableau](https://github.com/Hannah-Abi/Datacamp-courses/tree/main/Data%20Analyst%20with%20Tableau), [Data Scientist with Python](https://github.com/Hannah-Abi/Datacamp-courses/tree/main/Data%20Scientist%20with%20Python), [Data Analsy with SQL](https://github.com/Hannah-Abi/Datacamp-courses/tree/main/Data%20Analyst%20with%20SQL)
 - **Intensice courses**: [Programming with Python - Uni of Helsinki](https://github.com/Hannah-Abi/python-pro-21)
 ## Connect with me
 <p>
