@@ -6,13 +6,13 @@
 - Operation Performance, Sale & Digital Marketing
 - Customer Insights & User experience 
 ## My technical skills: 
-- Data Analytics Tools: Python, BI tools (Tableau, Power BI), SQL, R, etc...
-- Data Modelling/ ManipulationL: mySQL, SQL server, posgreSQL, Google Big Query, Azure.
+- Advanced Programming Tools: Python, BI tools (Tableau, Power BI), SQL, R, etc...
+- Database Design & Modelling: mySQL, SQL server, posgreSQL, Google Big Query, Azure.
 - Machine Learning (Regression, Classification, Clustering)/ Deep Learning (ANN/CNN). 
 - Statistical test: parametrics tests (T-test, ANOVA, A/B Testing) and non-parametric test (Sign test, Chi square test, Rank Test).
 
 ## Certificates and Advance Programming courses
-- **Datacamp:** [Data Analyst with Tableau](https://github.com/Hannah-Abi/Datacamp-courses/tree/main/Data%20Analyst%20with%20Tableau), [Data Scientist with Python](https://github.com/Hannah-Abi/Datacamp-courses/tree/main/Data%20Scientist%20with%20Python), [Data Analsy with SQL](https://github.com/Hannah-Abi/Datacamp-courses/tree/main/Data%20Analyst%20with%20SQL)
+- **Datacamp Certificate:** [Data Analyst with Tableau](https://github.com/Hannah-Abi/Datacamp-courses/tree/main/Data%20Analyst%20with%20Tableau), [Data Scientist with Python](https://github.com/Hannah-Abi/Datacamp-courses/tree/main/Data%20Scientist%20with%20Python), [Data Analsy with SQL](https://github.com/Hannah-Abi/Datacamp-courses/tree/main/Data%20Analyst%20with%20SQL)
 - **Advanced Python Programming courses**: [Programming with Python - Uni of Helsinki](https://github.com/Hannah-Abi/python-pro-21)
 
 ## Data Analytic Projects
