@@ -1,11 +1,12 @@
 # Hi there, 👋 I'm Hannah, a maniac in analytics
 ## Education 
 - Currently studying: Master of Science in **Business Analytics**. 
-- 2016 - 2019: Bachelor in Financial Management, Haaga-Helia UAS.  
+- 2016 - 2019: Bachelor in Financial Management, Haaga-Helia UAS.
+## Focus FIeld: 
+- Operation Performance, Sale & Digital Marketing
+- Customer Insights & User experience 
 ## My technical skills: 
 - Data Analytics Tools: Python, BI tools (Tableau, Power BI), SQL, R, etc...
-- Data Visualization: Tableau, Python (Matplotlib, Seaborn, GGplot), and R. 
-- Big Data Analytics in Sale & Marketing, and Customer Insights. 
 - Data Modelling/ ManipulationL: mySQL, SQL server, posgreSQL, Google Big Query, Azure.
 - Machine Learning (Regression, Classification, Clustering)/ Deep Learning (ANN/CNN). 
 - Statistical test: parametrics tests (T-test, ANOVA, A/B Testing) and non-parametric test (Sign test, Chi square test, Rank Test).
