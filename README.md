@@ -12,13 +12,13 @@
 - Statistical test: parametrics tests (T-test, ANOVA, A/B Testing) and non-parametric test (Sign test, Chi square test, Rank Test).
 
 ## Certificates and Advance Programming courses
-- **Datacamp Certificate:** [Data Analyst with Tableau](https://github.com/Hannah-Abi/Datacamp-courses/tree/main/Data%20Analyst%20with%20Tableau), [Data Scientist with Python](https://github.com/Hannah-Abi/Datacamp-courses/tree/main/Data%20Scientist%20with%20Python), [Data Analsy with SQL](https://github.com/Hannah-Abi/Datacamp-courses/tree/main/Data%20Analyst%20with%20SQL)
+- **Datacamp Certificate:** [Data Analyst with Tableau](https://github.com/Hannah-Abi/Datacamp-courses/tree/main/Data%20Analyst%20with%20Tableau) **//** [Data Scientist with Python](https://github.com/Hannah-Abi/Datacamp-courses/tree/main/Data%20Scientist%20with%20Python) **//** [Data Analsy with SQL](https://github.com/Hannah-Abi/Datacamp-courses/tree/main/Data%20Analyst%20with%20SQL)
 - **Advanced Python Programming courses**: [Programming with Python - Uni of Helsinki](https://github.com/Hannah-Abi/python-pro-21)
 
 ## Data Analytic Projects
 ### Advanced Data Analytics with SQL and Python
-- **Data Analysis with SQL**: [Sales KPI metrics for Wolt](https://github.com/Hannah-Abi/Sales-KPIs---delivery-service), [International Debt Statistics Analysis](https://app.datacamp.com/learn/projects/754)
-- **Data Analysis with Python**: [Investigating Netflix Movies and Guest Stars in The Office](https://app.datacamp.com/learn/projects/1237), [User Segmentation with RFM score](https://github.com/Hannah-Abi/user-segmentation-analysis-Wolt)
+- **Data Analysis with SQL**: [Sales KPI metrics for Wolt](https://github.com/Hannah-Abi/Sales-KPIs---delivery-service) **//**[International Debt Statistics Analysis](https://app.datacamp.com/learn/projects/754)
+- **Data Analysis with Python**: [Investigating Netflix Movies and Guest Stars in The Office](https://app.datacamp.com/learn/projects/1237) **//** [User Segmentation with RFM score](https://github.com/Hannah-Abi/user-segmentation-analysis-Wolt)
 
 ### Data Visualization 
 - **Interactive Dashboard with BI tools:** [Road Safety - Tableau Analytics Challene](https://github.com/Hannah-Abi/Road-Safety-in-Finland)
