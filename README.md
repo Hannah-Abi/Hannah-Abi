@@ -2,6 +2,12 @@
 ### <p align="center">A passionate Data Enthusiast from Vietnam</p>
 * 🚀 A Data enthusiast armed with Python, SQL, PySpark, and adept in Cloud Services. Transforming raw data into impactful insights and solving real-world challenges through machine learning. Ready to make waves in the data-driven decision-making arena! 💻✨
 * 👋 I am presently engaged in diverse **data engineering** projects, encompassing the development of **ETL pipelines, data modeling**, and the implementation of efficient **data integration processes**. The objective is to systematically collect, transform, and load data from diverse sources into databases or data warehouses with a focus on optimizing efficiency.🚀💾
+
+### My skills & Competences
+* **Business Intelligence Platform**: Microsoft Power BI, Tableau.
+* **Cloud Platforms**: Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform
+* **Programming Languages**: Python (Advanced), SQL (Advanced), R (Intermediate).
+*  **Database Systems & Big Data Technologies**: SQL Server, MySQL, PostgreSQL, Apache Spark. 
 ### Connect with me
 <p>
   <a href="https://www.linkedin.com/in/hannahabi/" rel="nofollow noreferrer">
