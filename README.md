@@ -7,7 +7,10 @@
 * **Business Intelligence Platform**: Microsoft Power BI, Tableau.
 * **Cloud Platforms**: Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform
 * **Programming Languages**: Python (Advanced), SQL (Advanced), R (Intermediate).
-*  **Database Systems & Big Data Technologies**: SQL Server, MySQL, PostgreSQL, Apache Spark. 
+*  **Database Systems & Big Data Technologies**: SQL Server, MySQL, PostgreSQL, Apache Spark.
+
+### Certificates
+* [Microsoft Azure Fundamentals](https://www.credly.com/badges/644b464c-e608-48de-9233-0f8ae0a04973/linked_in_profile)
 ### Connect with me
 <p>
   <a href="https://www.linkedin.com/in/hannahabi/" rel="nofollow noreferrer">
