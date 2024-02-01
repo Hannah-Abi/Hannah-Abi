@@ -11,6 +11,8 @@
 
 ### Certificates
 * [Microsoft Azure Fundamentals](https://www.credly.com/badges/644b464c-e608-48de-9233-0f8ae0a04973/linked_in_profile)
+* [DataCamp-Data Analyst in SQL](https://github.com/Hannah-Abi/Data-Analysis-Project-Portfolio/tree/main/CERTIFICATE-data-analysis-SQL)
+* [DataCamp-Data Analyst in Power BI](https://github.com/Hannah-Abi/Data-Analysis-Project-Portfolio/tree/main/CERTIFICATE-data-analysis-Power-BI)
 ### Connect with me
 <p>
   <a href="https://www.linkedin.com/in/hannahabi/" rel="nofollow noreferrer">
