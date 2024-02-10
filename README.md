@@ -3,16 +3,17 @@
 * 🚀 A Data enthusiast armed with Python, SQL, PySpark, and adept in Cloud Services. Transforming raw data into impactful insights and solving real-world challenges through machine learning. Ready to make waves in the data-driven decision-making arena! 💻✨
 * 👋 I am presently engaged in diverse **data engineering** projects, encompassing the development of **ETL pipelines, data modeling**, and the implementation of efficient **data integration processes**. The objective is to systematically collect, transform, and load data from diverse sources into databases or data warehouses with a focus on optimizing efficiency.🚀💾
 
-### My skills & Competences
+### SKILLS & COMPETENCES
 * **Business Intelligence Platform**: Microsoft Power BI, Tableau.
 * **Cloud Platforms**: Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform
 * **Programming Languages**: Python (Advanced), SQL (Advanced), R (Intermediate).
 *  **Database Systems & Big Data Technologies**: SQL Server, MySQL, PostgreSQL, Apache Spark.
 
-### Certificates
+### CERTIFICATES
 * [Microsoft Azure Fundamentals](https://www.credly.com/badges/644b464c-e608-48de-9233-0f8ae0a04973/linked_in_profile)
 * [DataCamp-Data Analyst in SQL](https://github.com/Hannah-Abi/Data-Analysis-Project-Portfolio/tree/main/CERTIFICATE-data-analysis-SQL)
 * [DataCamp-Data Analyst in Power BI](https://github.com/Hannah-Abi/Data-Analysis-Project-Portfolio/tree/main/CERTIFICATE-data-analysis-Power-BI)
+* [DataCamp- Data Analysis in Python](https://github.com/Hannah-Abi/Certicifates-and-Accomplishments/tree/dcc38816fb869c8beda6182e2e7572d5e73c1c39/Data%20Analyst%20with%20Python)
 ### Connect with me
 <p>
   <a href="https://www.linkedin.com/in/hannahabi/" rel="nofollow noreferrer">
@@ -23,7 +24,7 @@
   </a>
   <p>
 
-  ### Programming tools 
+  ### PROGRAMMING TOOLS
 <p>
   </a> &nbsp; 
    <img src="https://i.imgur.com/enc61qp.jpg" alt="VS Code>
